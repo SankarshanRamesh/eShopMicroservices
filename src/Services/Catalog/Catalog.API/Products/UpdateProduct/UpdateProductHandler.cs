@@ -1,4 +1,4 @@
-﻿using FluentValidation;
+﻿using BuildingBlocks.Exceptions;
 
 namespace Catalog.API.Products.UpdateProduct;
 
